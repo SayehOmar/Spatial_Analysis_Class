@@ -1,0 +1,8 @@
+A partir des donnees TP1 faire l'analyse spatial et repondre a la question suivant:
+1-Extraire les entitees geographiques  {S CITIES ,US RIVERS , US HIGHWAYS}
+2-Cree la couche ETATS_USA 
+3-Calculer la densitee demographiques
+4-Agreger {les entites USA and US Lakes }
+5-determiner les intersection entre les couches HIGHWAY and RIVERS 
+6-Determiner les villes Chicago et Alabama
+7-Determiner les villes dont les population est >=60 mille habitants

@@ -1,0 +1,45 @@
+Definition D'analyse spatial :
+L'analyse spatial est un approche geographique qui etude les localisations et l'interacation spatial 
+elle part de postula selon le quel etat acteur organisee 
+elle vise a proposer une approche modelisee de l'espace geographique
+en metant en evidance des formes d'organisation spatial et des theories a travers differant notions: 
+distance,structure ,situation .
+c'est ensemble des methodes mathematique et statistique visant a precisee la nature,la qualite, 
+la quantite attachee au lieu et au relation .
+
+                                       _____
+Analyse :                                   |                                   
+-collect                                    |
+-visualisation                              |
+-comprendre                                 |
+-extraire les informations                  | 
+-determination des relations spatials       \
+-tendese geographique                        \
+                                              )-------> Analyse le phenomene /Prendre des decisions   
+                                             /  
+Spatial:                                    /
+-donnee geolocalisee                        |
+-espace geographique                        |
+                                            | 
+Outils:                                     |
+methode + operateures                       |
+SIG                                    _____|
+
+obejctif d'analys spatial :
+-Decrire(l'etat de la realite{Ou,Quand,Qui}) 
+-Comprendre (medeliser les phenemones{comment})
+-predis(et apres?) 
+
+
+outils d'analyse spatial:
+
+la methode des marches d'analyse : elle differe selon la nature de problem 
+la startige , etapes d'analyse ,la logique, les operations logicaux mathematiques associee
+les outils des traitements 
+fournis par logiciel SIG qui offres une series des operatueures logique , topologique, arthemitique et mathimatique
+ses outils dependes 1er: mode de traitments ,objet/images , echelle de la mesures 
+
+La traitement se devise en 3 catogorie:
+-dimension thematique {operation s'applique aux attribues }
+-dimension geometrique {operation s'applique a la geometrie d'entities spatial }
+-dimension spatial {elle exploit simultaniment les infos geometrique et thematiques}
