@@ -8,6 +8,6 @@ This repository contains the work completed during the 2nd semester of my Master
 
 ## Introduction
 
-Welcome to the SIG Avance TP repository. In this repository, you will find project work related to my Master's degree in Geographic Information Systems (GIS) and remote sensing. This work was completed during the first semester and includes various projects, datasets, and analysis related to GIS and remote sensing.
+Welcome to the SIG Avance TP repository. In this repository, you will find project work related to my Master's degree in Geographic Information Systems (GIS) and remote sensing. This work was completed during the 2nd semester and includes various projects, datasets, and analysis related to GIS and remote sensing.
 
 ![GIS Tech Spotlight](/Images/GIS-Tech-Spotlight.jpeg)
